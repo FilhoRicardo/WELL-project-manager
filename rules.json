@@ -1,0 +1,173 @@
+[
+  {
+    "id": "A01.5",
+    "concept": "Air",
+    "guide_page": 4,
+    "evidence": "Re-test the same pollutants covered under A01 (particulate matter, and the relevant organic/inorganic gases) in occupiable spaces, at the sampling locations and densities set out in the WELL Performance Verification Guidebook.",
+    "timing": "At least once every 12 months, on a rolling annual cycle from the project's WELL registration/certification anniversary.",
+    "report": "On-going Data Report, uploaded through WELL Online (Documents > Scorecard tab, tagged to Part A01.5).",
+    "cadence": "annual"
+  },
+  {
+    "id": "A08.1",
+    "concept": "Air",
+    "guide_page": 5,
+    "evidence": "Keep the installed continuous air-quality monitors calibrated (or replace them) and keep submitting the monitored data.",
+    "timing": "Data submitted annually; monitors recalibrated or replaced annually, with documentation of that calibration/replacement filed each year.",
+    "report": "On-going Data Report, uploaded through WELL Online, tagged to Part A08.1.",
+    "cadence": "annual"
+  },
+  {
+    "id": "A12.1",
+    "concept": "Air",
+    "guide_page": 6,
+    "evidence": "Submit BOTH (1) filter performance data (e.g. AHU filter pressure-drop or PPM readings) and (2) evidence the filters/devices have actually been replaced or maintained per the manufacturer's schedule.",
+    "timing": "Both due annually \u2014 treat them as two separate line items, not one.",
+    "report": "(1) On-going Data Report + (2) On-going Maintenance Report, both uploaded through WELL Online, tagged to Part A12.1.",
+    "cadence": "annual"
+  },
+  {
+    "id": "A13.1",
+    "concept": "Air",
+    "guide_page": 7,
+    "evidence": "Where recirculated air is treated (activated carbon, high-efficiency media filters, or UVGI), submit evidence the filter or treatment device has been replaced or maintained per manufacturer guidance.",
+    "timing": "Annually.",
+    "report": "On-going Maintenance Report, uploaded through WELL Online, tagged to Part A13.1.",
+    "cadence": "annual"
+  },
+  {
+    "id": "A14.1",
+    "concept": "Air",
+    "guide_page": 8,
+    "evidence": "Submit evidence UV lamps have been replaced/maintained per manufacturer guidance, and \u2014 for any cooling coils without UV lamps \u2014 dated photos confirming quarterly inspection and cleaning.",
+    "timing": "UV lamp maintenance evidence and coil inspection photos are both filed annually (coils are physically inspected quarterly, but the documentation upload itself is an annual bundle).",
+    "report": "On-going Maintenance Report, uploaded through WELL Online, tagged to Part A14.1.",
+    "cadence": "quarterly"
+  },
+  {
+    "id": "W03.1",
+    "concept": "Water",
+    "guide_page": 9,
+    "evidence": "Re-test domestic water systems for the chemical/biological indicators required under W03 (e.g. pH, temperature, disinfectant residual, bacteria counts as applicable) and log the results.",
+    "timing": "At least once every 12 months.",
+    "report": "On-going Data Report, uploaded through WELL Online, tagged to Part W03.1.",
+    "cadence": "annual"
+  },
+  {
+    "id": "W03.2",
+    "concept": "Water",
+    "guide_page": 10,
+    "evidence": "Confirm the documented Legionella/water-management plan (e.g. aligned with ASHRAE 188 or equivalent) remains in effect, with current monitoring and inspection records.",
+    "timing": "At least once every 12 months.",
+    "report": "On-going Data Report, uploaded through WELL Online, tagged to Part W03.2.",
+    "cadence": "annual"
+  },
+  {
+    "id": "W05.1",
+    "concept": "Water",
+    "guide_page": 11,
+    "evidence": "Test drinking-water dispensers quarterly against the W05 thresholds (turbidity, pH, TDS, chlorine, coliforms, lead, copper), remediate and retest any exceedance within a month, and submit the full year's results.",
+    "timing": "Testing is quarterly; the consolidated results are submitted once a year.",
+    "report": "On-going Data Report, uploaded through WELL Online, tagged to Part W05.1.",
+    "cadence": "quarterly"
+  },
+  {
+    "id": "W07.3",
+    "concept": "Water",
+    "guide_page": 12,
+    "evidence": "Carry out the scheduled inspections in the moisture-management plan (signs of water damage/mold, pipe-leak checks) and submit the inspection results, including any mold test results.",
+    "timing": "At least once every 12 months.",
+    "report": "On-going Maintenance Report, uploaded through WELL Online, tagged to Part W07.3.",
+    "cadence": "annual"
+  },
+  {
+    "id": "W09.1",
+    "concept": "Water",
+    "guide_page": 13,
+    "evidence": "Submit the startup procedure, maintenance logs, verification/Legionella test results (where applicable) and third-party inspection records for the non-potable water capture and reuse system.",
+    "timing": "Annually.",
+    "report": "On-going Maintenance Report, uploaded through WELL Online, tagged to Part W09.1.",
+    "cadence": "annual"
+  },
+  {
+    "id": "V09.1",
+    "concept": "Movement",
+    "guide_page": 14,
+    "evidence": "Track utilisation of the physical-activity incentive programme(s) offered to eligible employees (target: 50% annual utilisation, or a 10-point improvement year over year).",
+    "timing": "WELL Online marks this data submission as required for recertification only \u2014 but utilisation should still be tracked every year internally, since the recertification figure is typically a multi-year average.",
+    "report": "On-going Data Report, uploaded through WELL Online, tagged to Part V09.1.",
+    "cadence": "recertification"
+  },
+  {
+    "id": "T01.2",
+    "concept": "Thermal comfort",
+    "guide_page": 15,
+    "evidence": "Monitor dry-bulb temperature, relative humidity, air speed (if applicable) and mean radiant temperature in regularly occupied spaces.",
+    "timing": "At least twice a year \u2014 once in June, July or August (summer window) and once in December, January or February (winter window). Missing either window means the credit is incomplete for that year, not just late.",
+    "report": "On-going Data Report, uploaded through WELL Online, tagged to Part T01.2 and the correct reporting window.",
+    "cadence": "seasonal"
+  },
+  {
+    "id": "T02.1",
+    "concept": "Thermal comfort",
+    "guide_page": 16,
+    "evidence": "Administer a post-occupancy thermal-comfort survey to all regular occupants using a pre-approved (or the survey questions used) instrument, and submit the distribution date(s) and results.",
+    "timing": "At least twice a year \u2014 once in the June-August window and once in the December-February window. At recertification, the median satisfaction score across the previous six surveys (3 years x 2/year) is what actually gets assessed \u2014 gaps now cost points later, not just compliance risk today.",
+    "report": "Technical Document (Individual), uploaded through WELL Online, tagged to Part T02.1.",
+    "cadence": "seasonal"
+  },
+  {
+    "id": "T06.1",
+    "concept": "Thermal comfort",
+    "guide_page": 17,
+    "evidence": "Continuously monitor dry-bulb temperature and relative humidity via fixed sensors, and keep the real-time environmental display available to occupants.",
+    "timing": "Data submitted annually; sensors recalibrated or replaced at least every three years, with a calibration certificate filed on that three-year cycle.",
+    "report": "On-going Data Report, uploaded through WELL Online, tagged to Part T06.1.",
+    "cadence": "annual"
+  },
+  {
+    "id": "X08.1",
+    "concept": "Materials",
+    "guide_page": 18,
+    "evidence": "Where the project pursued this credit via Option 2 (future purchase of compliant products, for buildings with fewer than 25 newly-installed qualifying products), confirm and document that every subsequent repair, renovation or replacement purchase still meets the same chemical-restriction thresholds.",
+    "timing": "Ongoing, triggered by purchasing activity rather than a fixed date \u2014 reviewed and re-confirmed at recertification, when product spec sheets are required for every qualifying purchase made since initial certification.",
+    "report": "Policy and/or Operations Schedule, plus On-going Data Report, uploaded through WELL Online, tagged to Part X08.1.",
+    "cadence": "event"
+  },
+  {
+    "id": "C04.2",
+    "concept": "Community",
+    "guide_page": 19,
+    "evidence": "Re-administer the pre-approved occupant satisfaction survey selected under C04.1, and submit the participation rate and summary results.",
+    "timing": "At least once every 12 months.",
+    "report": "On-going Data Report, uploaded through WELL Online, tagged to Part C04.2.",
+    "cadence": "annual"
+  },
+  {
+    "id": "C05.1",
+    "concept": "Community",
+    "guide_page": 20,
+    "evidence": "Add at least three extra survey questions on a selected wellbeing topic (via the same or a compatible pre-approved provider), run enhanced statistical analysis on the results, and submit both.",
+    "timing": "At least once every 12 months, alongside the core C04 survey.",
+    "report": "On-going Data Report, uploaded through WELL Online, tagged to Part C05.1.",
+    "cadence": "annual"
+  },
+  {
+    "id": "C05.2",
+    "concept": "Community",
+    "guide_page": 21,
+    "evidence": "Compare the results of the original pre-occupancy survey against the first post-occupancy survey (from the same provider) and submit the aggregated, anonymised comparison.",
+    "timing": "Once \u2014 this is a single before/after comparison, not a recurring annual submission, and WELL Online explicitly does not require it again at recertification.",
+    "report": "On-going Data Report, uploaded through WELL Online, tagged to Part C05.2.",
+    "cadence": "once"
+  },
+  {
+    "id": "C05.4",
+    "concept": "Community",
+    "guide_page": 22,
+    "evidence": "Run stakeholder interviews, focus groups and/or observation (led by a qualified qualitative researcher), compare the findings against the C04/C05 survey results, and submit the aggregated, anonymised findings.",
+    "timing": "Conducted and submitted annually.",
+    "report": "On-going Data Report, uploaded through WELL Online, tagged to Part C05.4.",
+    "cadence": "annual"
+  }
+]
